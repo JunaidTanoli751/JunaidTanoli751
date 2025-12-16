@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Junaid Tanoli
 
-<!--
-**JunaidTanoli751/JunaidTanoli751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS @ UBIT  
+🤖 Generative AI & Agentic AI  
+🧠 LLMs | LangChain | Transformers  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- Agentic AI systems using LangChain
+- LLM-powered applications (RAG, tools, memory)
+- Deep Learning & Generative Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python, NumPy, Pandas
+- Machine Learning & Deep Learning
+- CNN, RNN, Bi-RNN, Transformers
+- LangChain, FAISS, Chroma
+- OpenAI / HuggingFace
+
+## 📂 Featured Projects
+🔹 Multi-Agent AI Research Assistant  
+🔹 Chat with Your Documents (RAG System)  
+🔹 AI Career Mentor Agent  
+
+📫 Connect with me on LinkedIn
